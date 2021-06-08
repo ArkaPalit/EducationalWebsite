@@ -1,0 +1,197 @@
+* {
+    margin: 0px auto;
+  }
+  .nav {
+    width: 100%;
+    height: 100px;
+    border-bottom: 2px solid #ebf2f7;
+  }
+  .navBar {
+    width: 70%;
+    height: 50%;
+    padding-top: 15px;
+  }
+  .navBar img {
+    height: 50px;
+    width: 100px;
+    float: left;
+    margin-right: 20px;
+    cursor: pointer;
+  }
+  .navBar input {
+    background-color: #ebf2f7;
+    height: 75%;
+    width: 65%;
+    border: none;
+    border-radius: 50px;
+    font-family: ProximaNova, Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    float: left;
+    padding-left: 20px;
+  }
+  .join {
+    height: 75%;
+    width: 100px;
+    border: none;
+    border-radius: 50px;
+    background-color: white;
+    cursor: pointer;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .join:hover {
+    background-color: #d4d6d6;
+  }
+  .ask {
+    height: 75%;
+    width: 140px;
+    border: none;
+    border-radius: 50px;
+    background-color: white;
+    cursor: pointer;
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 16px;
+  }
+  .ask:hover {
+    background-color: #d4d6d6;
+  }
+  .navText {
+    padding-left: 395px;
+    padding-top: 5px;
+  }
+  .navText a {
+    font-family: ProximaNova, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+    line-height: 20px;
+    color: black;
+    margin-left: 10px;
+    text-decoration: none;
+  }
+  .navText a:hover {
+    text-decoration: underline;
+  }
+
+  .login {
+    font-family: ProximaNova, Helvetica, Arial, sans-serif;
+    margin-top: 15px;
+    width: 60%;
+    height: auto;
+  }
+  .login h6 {
+      font-family: ProximaNova, Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-size: 12px;
+      line-height: 16px;
+      color: #687b8c;
+      text-align: center;
+      margin-top: 20px;
+      margin-bottom: 40px;
+  }
+
+  .loginBar {
+    border: 2px solid #ebf2f7;
+    border-radius: 8px;
+    width: 30%;
+    margin-left: 15px;
+    padding-top: 30px;
+    padding-left: 20px;
+    float: left;
+  }
+  .loginBar h2,h3 {
+    font-family: ProximaNova, Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    text-align: center;
+  }
+  .loginBar h2 {
+      margin-top: 20px;
+  }
+  .loginBar h4 {
+    font-family: ProximaNova, Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #323c45;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  .loginBar h4 a {
+      color: #0089e3;
+      font-weight: 700;
+      text-decoration: none;
+  }
+  .loginBar h4 a:hover {
+      text-decoration: underline;
+  }
+  
+  .api1 {
+    height: 27px;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 50px;
+    text-align: center;
+    border: 2px solid black;
+    padding-top: 8px;
+    cursor: pointer;
+  }
+  .api1:hover {
+      background-color: #d4d6d6;
+  }
+  .api2 {
+    height: 27px;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 50px;
+    text-align: center;
+    border: 2px solid black;
+    background-color: black;
+    color: white;
+    padding-top: 8px;
+    cursor: pointer;
+  }
+  .api2:hover {
+      background-color: rgb(37, 36, 36);
+      border: 2px solid rgb(37, 36, 36);
+  }
+  .api3 {
+    height: 27px;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    text-align: center;
+    border: 2px solid #3c5b96;
+    background-color: #3c5b96;
+    color: white;
+    padding-top: 8px;
+    cursor: pointer;
+  }
+  .api3:hover {
+      background-color: #4568aa;
+      border: 2px solid #4568aa;
+  }
+  .api img {
+    height: 40px;
+    float: left;
+  }
+  .loginText {
+      font-family: ProximaNova, Helvetica, Arial, sans-serif;
+      font-style: normal;
+      font-weight: 900;
+      font-size: 56px;
+      line-height: 56px;
+      color: #b9e2fe;
+      margin-left: 408px;
+  }
+  

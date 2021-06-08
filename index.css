@@ -1,0 +1,112 @@
+* {
+    margin: 0px auto;
+    font-family: ProximaNova, Helvetica, Arial, sans-serif;
+}
+.nav {
+    height: 600px;
+    width: 100%;
+    /* border: 2px solid red; */
+    background-color: #D9F0FF;
+}
+.navbar {
+    height: auto;
+    width: 65%;
+    /* border: 2px solid green; */
+}
+.navbar img {
+    height: 80px;
+    width: 160px;
+    margin-top: 40px;
+    float: left;
+}
+.login, .join, .ask {
+    height: 42px;
+    width: 80px;
+    background-color: #D9F0FF;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 15px;
+    color: black;
+    margin-top: 50px;
+}
+.login {
+    margin-left: 700px;
+    margin-right: 10px;
+}
+.login:hover {
+    background-color: #d0d1d1;
+}
+.join {
+    width: 100px;
+    margin-right: 10px;
+}
+.join:hover {
+    background-color: #d0d1d1;
+}
+.ask {
+    width: 160px;
+    background-color: white;
+}
+.ask:hover {
+    background-color: #d0d1d1;
+}
+
+.nav_bottom {
+    width: 65%;
+}
+.nav_bottom h1 {
+    font-weight: 900;
+    margin-top: 80px;
+    margin-right: 400px;
+    font-size: 78px;
+    line-height: 78px;
+    color: black;
+}
+.nav_bottom h5 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24px;
+    font-style: normal;
+    margin-top: 30px;
+    margin-right: 400px;
+}  
+.search {
+    margin-top: 30px;
+    margin-left: 0px;
+    /* margin-bottom: 30px; */
+    height: 100px;
+    width: 700px;
+    background-color: white;
+    border-radius: 50px;
+    padding-top: 25px;
+    padding-left: 40px;
+}
+.search input {
+    margin-top: 5px;
+    font-size: 24px;
+    font-weight: 400px;
+    width: 81%;
+    font-style: normal;
+    border: none;
+    outline: none;
+}
+.search img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-left: 50px;
+    cursor: pointer;
+}
+.subjects_box {
+    width: 100%;;
+    height: 130px;
+    background-color: #F5F8FA;
+}
+.subjects {
+    width: 65%;
+    height: 130px;
+    border: 2px solid green;
+}
